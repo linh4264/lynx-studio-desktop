@@ -1,3 +1,4 @@
+<img width="1280" height="800" alt="typeset-gun" src="https://github.com/user-attachments/assets/836fa5d0-7c64-4dc0-aeca-e571771e34dd" />
 # 🎨 Manga Translator Studio (Desktop Edition)
 
 [![Release](https://img.shields.io/github/v/release/linh4264/manga-translator-releases?style=for-the-badge&color=blue)](https://github.com/linh4264/manga-translator-releases/releases/latest)
@@ -25,17 +26,23 @@
 - Remove Japanese / Korean / Chinese raw text with 1 click.
 - Clean complex backgrounds, screentones, and hair textures without leaving smudges.
 - Lasso tool, smart bounding-box eraser, and patch healing included.
+<img width="1280" height="800" alt="ai-inpaint" src="https://github.com/user-attachments/assets/ef0931e2-d5e8-4329-a4bd-07524c8538e0" />
 
 ### 2.  Professional Canvas Typesetting Engine
 - **Text-Only Rotation Rig**: Rotate and snap balloon text without distorting translation boundaries.
 - **Auto-Fit & Smart Line-Break**: Text automatically scales and wraps to match vertical or horizontal balloon shapes.
 - Full typographic control: Stroke (Outline), Shadow, Tracking, Line Height, and Vertical CJK writing mode.
+<img width="1280" height="800" alt="typeset-gun" src="https://github.com/user-attachments/assets/f35f916d-7652-41a4-8a00-34c574882f6b" />
+<img width="1280" height="800" alt="smart-fit-w" src="https://github.com/user-attachments/assets/380d4af3-dce2-4526-9233-acc75d68068a" />
+<img width="1280" height="800" alt="auto-fit" src="https://github.com/user-attachments/assets/48138223-7324-4656-9795-a496344ddcb4" />
 
 ### 3.  Native Layered PSD Export
 - Don't get locked in. Export full projects directly to **Adobe Photoshop (`.psd`)** with editable text layers, rasterized masks, and clean background separation.
+<img width="1280" height="800" alt="psd-export" src="https://github.com/user-attachments/assets/53bc3ed9-ff17-4ea5-9144-5c50951d7842" />
 
 ### 4.  Offline-First & Privacy Respected
 - Your manga chapters and pages remain stored locally on your device. High-performance desktop runtime powered by Rust and WebGPU.
+<img width="1280" height="800" alt="auto-pilot" src="https://github.com/user-attachments/assets/a7c93826-7ac2-4627-820f-ba3c2ca190bc" />
 
 ---
 
