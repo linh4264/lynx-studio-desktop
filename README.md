@@ -1,4 +1,3 @@
-<img width="1280" height="800" alt="typeset-gun" src="https://github.com/user-attachments/assets/836fa5d0-7c64-4dc0-aeca-e571771e34dd" />
 # 🎨 Manga Translator Studio (Desktop Edition)
 
 [![Release](https://img.shields.io/github/v/release/linh4264/manga-translator-releases?style=for-the-badge&color=blue)](https://github.com/linh4264/manga-translator-releases/releases/latest)
