@@ -1,4 +1,4 @@
-# 🎨 Manga Translator Studio (Desktop Edition)
+# 🎨 Lynx Studio (Desktop Edition)
 
 [![Release](https://img.shields.io/github/v/release/linh4264/manga-translator-releases?style=for-the-badge&color=blue)](https://github.com/linh4264/manga-translator-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/linh4264/manga-translator-releases/releases/latest)
